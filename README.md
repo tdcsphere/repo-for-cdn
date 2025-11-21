@@ -1,4 +1,4 @@
-Steps:
+Steps to use free CDN from JSDELIVR:
 - Upload files (Click "+ Add Files" --> "Upload Files")
 - Go to the file directory by clicking on it
 - Copy the URL from the browser's address bar
